@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What You Doing: a tiny react blog for great justice
 
 ## Description
@@ -35,3 +36,7 @@ User should be able to:
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [mit-license]: https://opensource.org/licenses/MIT
+
+---
+
+See [Mern.io](http://mern.io) for more information about project skeleton.
